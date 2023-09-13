@@ -1,3 +1,3 @@
 - Executar somente o main.py
-  
+- Dados são salvos usando o Sistema do Mysql
 - Arquivos de tela foram criados usando o PyQt5
