@@ -1,0 +1,4 @@
+- Executar primeiro o main_servidor.py, depois o main_cliente.py
+- Banco permite a conexão de vários clientes ultilizando Multithreading
+- Dados são salvos usando o Sistema do Mysql
+- Telas foram criadas usando o PtQt5
