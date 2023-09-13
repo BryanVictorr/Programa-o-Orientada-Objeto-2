@@ -1,0 +1,2 @@
+- Executar primeiro o Servidor, depois o Cliente.
+- Arquivos de tela foram criados usando o PyQt5
