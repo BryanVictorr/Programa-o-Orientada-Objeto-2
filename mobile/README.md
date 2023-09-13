@@ -1,0 +1,1 @@
+- Calculadora desenvolvida em Kivy, uma linguagem baseada em Python
