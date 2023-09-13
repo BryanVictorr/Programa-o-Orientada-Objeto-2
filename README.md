@@ -1,4 +1,4 @@
-- Programa-o-Orientada-Objeto-2
+
 - Alguns trabalhos que fiz na Universidade ultilizando a linguagem Python
 - Foi desenvolvido duas aplicações bancárias, uma usando conexão local e outra remota com o banco de dados msql
 - Foi desenvolvido uma Calculadora que pode ser instalada como APK
